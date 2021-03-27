@@ -9,6 +9,7 @@ SEO is important because we use it everyday. Understanding SEO and the algorithm
 The organization of this is going to follow the layout of the assignment
 
 # Tools
+
 ## Onsite Tools
- 
- Offsite Tools
+. test
+## Offsite Tools
