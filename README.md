@@ -11,7 +11,7 @@ The organization of this is going to follow the layout of the assignment
 # Tools
 
 ## Onsite Tools
-- Python SEO Analyzer @https://github.com/miklevin/Pipulate
-- Pipulate
+- Python SEO Analyzer 
+- Pipulate (https://github.com/miklevin/Pipulate) - An SEO tool that analyzes the structure of a site, crawls the site, counts words in the body of the site and warns of any technical SEO issues.
 
 ## Offsite Tools
