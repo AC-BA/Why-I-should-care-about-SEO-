@@ -11,5 +11,7 @@ The organization of this is going to follow the layout of the assignment
 # Tools
 
 ## Onsite Tools
-- test
+- Python SEO Analyzer @https://github.com/miklevin/Pipulate
+- Pipulate
+
 ## Offsite Tools
