@@ -4,3 +4,4 @@ https://moz.com/blog/tips-and-tactics-for-amplifying-your-content-whiteboard-fri
 
 https://www.pcmag.com/picks/the-best-seo-tools
 
+https://backlinko.com/seo-tools
