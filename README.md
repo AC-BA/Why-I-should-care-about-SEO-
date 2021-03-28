@@ -7,7 +7,7 @@ SEO is important because we use it everyday. Understanding SEO and the algorithm
 
 ## Structure
 
-The organization of this is going to follow the layout of the assignment. Files are different SEO tools that would be useful tools I would use for SEO consulting. Folders have information such as what is SEO (Search Engine Optimization) and why use it
+The organization of this is going to follow the layout of the assignment. Files are different SEO tools that would be useful tools I would use for SEO consulting. Folders have information such as what is SEO (Search Engine Optimization), why to use it and uploads of presentations created for the class.
 
 ## Tools
 The tools identified in the attached files are some examples of useful tools for Search Engine Optimizers. 
