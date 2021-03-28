@@ -13,4 +13,4 @@ The organization of this is going to follow the layout of the assignment. Files 
 The tools identified in the attached files are some examples of useful tools for Search Engine Optimizers
 
 ## References
-Inside the references folder, there are websites that we used to compile these tools
+Inside the references folder, there are websites that were used to compile these tools
