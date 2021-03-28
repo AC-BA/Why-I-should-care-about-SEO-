@@ -10,19 +10,22 @@ SEO is important because we use it everyday. Understanding SEO and the algorithm
 The organization of this is going to follow the layout of the assignment. Files are different SEO tools that would be useful tools I would use for SEO consulting. Folders have information such as what is SEO (Search Engine Optimization) and why use it
 
 ## Tools
-The tools identified in the attached files are some examples of useful tools for Search Engine Optimizers
-- [AWR Cloud](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/AWR%20Cloud.md) - AWR Cloud
-- Deep Crawl
-- Google Analytics
-- Google Search Console
-- KW Finder
-- Link Resarch Tools
-- Majestic
-- Moz Pro
-- Pipulate
-- Python SEO Analyzer
-- SEMrush
-- SpyFu
+The tools identified in the attached files are some examples of useful tools for Search Engine Optimizers. 
+Click links below to go to the page
+
+- [AWR Cloud](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/AWR%20Cloud.md)
+- [Deep Crawl](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/DeepCrawl.md)
+- [Google Analytics](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/Google%20Analytics.md)
+- [Google Search Console](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/Google%20Search%20Console.md)
+- [Google Trends](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/Google%20Trends.md0
+- [KW Finder](
+- [Link Resarch Tools](
+- [Majestic](
+- [Moz Pro](
+- [Pipulate](
+- [Python SEO Analyzer](
+- [SEMrush](
+- [SpyFu](
 
 ## References
 Inside the references folder, there are websites that were used to compile these tools
