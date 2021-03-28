@@ -17,15 +17,15 @@ Click links below to go to the page
 - [Deep Crawl](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/DeepCrawl.md)
 - [Google Analytics](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/Google%20Analytics.md)
 - [Google Search Console](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/Google%20Search%20Console.md)
-- [Google Trends](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/Google%20Trends.md0
-- [KW Finder](
-- [Link Resarch Tools](
-- [Majestic](
-- [Moz Pro](
-- [Pipulate](
-- [Python SEO Analyzer](
-- [SEMrush](
-- [SpyFu](
+- [Google Trends](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/Google%20Trends.md)
+- [KW Finder](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/KWFinder.md)
+- [Link Resarch Tools](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/LinkResearchTools.md)
+- [Majestic](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/Majestic.md)
+- [Moz Pro](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/Moz%20Pro.md)
+- [Pipulate](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/Pipulate.md)
+- [Python SEO Analyzer](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/Python%20SEO%20Analyzer.md)
+- [SEMrush](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/SEMrush.md)
+- [SpyFu](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/SpyFu.md)
 
 ## References
 Inside the references folder, there are websites that were used to compile these tools
