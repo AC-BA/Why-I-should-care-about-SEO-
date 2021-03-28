@@ -9,3 +9,5 @@ https://backlinko.com/seo-tools
 https://wordpress.org/plugins/code-snippets/
 
 https://www.toptal.com/software/best-command-line-tools
+
+https://moz.com/blog/offpage-seo-strategies
