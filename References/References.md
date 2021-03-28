@@ -7,3 +7,5 @@ https://www.pcmag.com/picks/the-best-seo-tools
 https://backlinko.com/seo-tools
 
 https://wordpress.org/plugins/code-snippets/
+
+https://www.toptal.com/software/best-command-line-tools
