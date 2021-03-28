@@ -10,6 +10,7 @@ SEO is important because we use it everyday. Understanding SEO and the algorithm
 The organization of this is going to follow the layout of the assignment. Files are different SEO tools that would be useful tools I would use for SEO consulting. Folders have information such as what is SEO (Search Engine Optimization) and why use it
 
 ## Tools
+The tools identified in the attached files are some examples of useful tools for Search Engine Optimizers
 
-- Python SEO Analyzer (https://github.com/sethblack/python-seo-analyzer) - 
-- Pipulate (https://github.com/miklevin/Pipulate) - Useful for updating reports in a Google spreadsheet to make data dashboards for business
+## References
+Inside the references folder, there are websites that we used to compile these tools
