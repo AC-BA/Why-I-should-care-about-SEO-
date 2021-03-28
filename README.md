@@ -12,7 +12,8 @@ The organization of this is going to follow the layout of the assignment. Files 
 ## Tools
 The tools identified in the attached files are some examples of useful tools for Search Engine Optimizers. 
 
-Click links below to go to the page
+| Click links below to go to the page
+V 
 
 - [AWR Cloud](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/AWR%20Cloud.md)
 - [Deep Crawl](https://github.com/AC-BA/Why-I-should-care-about-SEO-/blob/main/DeepCrawl.md)
