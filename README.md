@@ -11,6 +11,18 @@ The organization of this is going to follow the layout of the assignment. Files 
 
 ## Tools
 The tools identified in the attached files are some examples of useful tools for Search Engine Optimizers
+- AWR Cloud
+- Deep Crawl
+- Google Analytics
+- Google Search Console
+- KW Finder
+- Link Resarch Tools
+- Majestic
+- Moz Pro
+- Pipulate
+- Python SEO Analyzer
+- SEMrush
+- SpyFu
 
 ## References
 Inside the references folder, there are websites that were used to compile these tools
